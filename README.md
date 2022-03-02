@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - CS Engineer Student
-- Custom mechanical keyboards @Senpaikb 
-- ReadMe Work in progress
+- Custom mechanical keyboards enthusiast
+- Currently intrested on mobile iOS development 
+- 
 
 <!--
 **doragonUni/doragonUni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
