@@ -1,10 +1,19 @@
-### Hello, Hola, 你好! 👋
-
+###  👋
+<h1 align="center">
+  Hello, Hola, 你好!
+</h1>
+<p align="center">
+I'm Lung 
+</p>
+<p align="center">
+  Computer Science Engineering Student
+</p>
+<p align="center">
+  Based in Chile 🌶️
+</p>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lung-wang/?locale=en_us" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  Cs Engineer Student
-  Custom mechanical keyboards enthusiast
-  Currently intrested on mobile iOS development 
+   
 </p>
 
 
