@@ -17,17 +17,12 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doragonUni&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doragonUni&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
--->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=doragonuni&label=Profile%20views&color=0e75b6&style=flat" alt="doragonuni" /> </p>
 
 
 
 ### Languages / Frameworks 🔧
-#### Programming Laguages ⌨️
+
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -54,7 +49,12 @@
 
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-
+### Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doragonUni&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doragonUni&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=doragonuni&label=Profile%20views&color=0e75b6&style=flat" alt="doragonuni" /> </p>
 <!--
 **doragonUni/doragonUni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
