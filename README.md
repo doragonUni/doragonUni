@@ -13,7 +13,10 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lung-wang/?locale=en_us" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    
 </p>
-
+### About self ☆*: .｡. o(≧▽≦)o .｡.:*☆ 
+📱 Currently interested on iOS mobile development
+⌨️ Mechanical keyboard enthusiast 
+-
 
 ### Languages / Frameworks ⌨️
 
@@ -30,14 +33,14 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
 
 ### Tools 🔧
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ### Stats 📊
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doragonUni&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
