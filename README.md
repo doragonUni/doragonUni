@@ -1,6 +1,6 @@
-###  👋
+
 <h1 align="center">
-  Hello, Hola, 你好!
+  Hello, Hola, 你好! 👋
 </h1>
 <p align="center">
 I'm Lung 
