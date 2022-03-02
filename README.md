@@ -14,9 +14,8 @@
 </p>
 
 ### About self ヾ(≧▽≦*)o
-📱 Currently interested on iOS mobile development
-⌨️ Mechanical keyboard enthusiast 
--
+- 📱 I’m currently learning iOS mobile development
+- ⌨️ Mechanical keyboard enthusiast 
 
 ### Languages / Frameworks ⌨️
 
