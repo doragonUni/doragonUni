@@ -42,7 +42,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 <details>
-  <summary>### Stats 📊</summary>
+  <summary><b> Stats </b> 📊</summary>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doragonUni&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doragonUni&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
