@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hello there. Hola que tal!. 哈咯！
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doragonUni)](https://github.com/anuraghazra/github-readme-stats)
 
 - CS Engineer Student
 - Custom mechanical keyboards enthusiast
 - Currently intrested on mobile iOS development 
-- 
+-  
 
 <!--
 **doragonUni/doragonUni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
