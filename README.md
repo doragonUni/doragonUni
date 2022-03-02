@@ -41,12 +41,17 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-### Stats 📊
+<details>
+  <summary>Stats 📊</summary>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doragonUni&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doragonUni&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doragonuni&label=Profile%20views&color=0e75b6&style=flat" alt="doragonuni" /> </p>
+  
+</details>
+
+
 <!--
 **doragonUni/doragonUni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
