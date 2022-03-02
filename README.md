@@ -1,10 +1,8 @@
 
 <h1 align="center">
   Hello, Hola, 你好! 👋
+  I'm Lung. 我叫王龙
 </h1>
-<p align="center">
-I'm Lung 
-</p>
 <p align="center">
   Computer Science Engineering Student
 </p>
