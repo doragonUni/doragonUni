@@ -1,4 +1,4 @@
-### Hello there. Hola que tal!. 哈咯！
+### Hello, Hola, 你好！
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doragonUni&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
