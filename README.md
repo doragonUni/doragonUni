@@ -11,9 +11,9 @@
 </p>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lung-wang/?locale=en_us" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   
 </p>
-### About self   ☆*: .｡. o(≧▽≦)o .｡.:*
+
+### About self ヾ(≧▽≦*)o
 📱 Currently interested on iOS mobile development
 ⌨️ Mechanical keyboard enthusiast 
 -
