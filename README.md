@@ -1,10 +1,11 @@
-### Hello, Hola, 你好！
+### Hello, Hola, 你好! 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doragonUni&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doragonUni&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+### About self 👋
 - CS Engineer Student
 - Custom mechanical keyboards enthusiast
 - Currently intrested on mobile iOS development 
