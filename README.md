@@ -15,13 +15,7 @@
 </p>
 
 
-
-
-
-
-
-
-### Languages / Frameworks 🔧
+### Languages / Frameworks ⌨️
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -45,11 +39,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-### Stats
+### Stats 📊
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doragonUni&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doragonUni&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
