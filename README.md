@@ -13,8 +13,9 @@
 <a href="https://www.linkedin.com/in/lung-wang/?locale=en_us" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-### About self ヾ(≧▽≦*)o
-- 📱 I’m currently learning iOS mobile development
+### About me ヾ(≧▽≦*)o
+- 📱 I’m currently learning iOS/Fluttter/ReactNative mobile development
+- FrontEnd Developer 
 - ⌨️ Mechanical keyboard enthusiast 
 
 ### Languages / Frameworks ⌨️
