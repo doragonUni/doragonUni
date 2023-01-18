@@ -10,7 +10,7 @@
   Based in Chile 🌶️
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/lung-wang/?locale=en_us" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/lung-wang/?locale=en_US" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ### About me ヾ(≧▽≦*)o
